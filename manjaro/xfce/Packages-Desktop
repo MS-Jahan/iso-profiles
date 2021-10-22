@@ -63,9 +63,6 @@ terminus-font
 >extra ttf-liberation
 >extra ttf-droid
 
-## Games
->x86_64 >extra steam-manjaro
-
 ## Package management
 >extra apparmor
 #>extra gnome-software-snap
@@ -165,7 +162,7 @@ xcursor-vanilla-dmz-aa
 >extra catfish
 dmidecode # optional dependency inxi
 engrampa
->extra firefox
+>extra chromium
 # >extra flashplugin
 >extra galculator-gtk2
 gcolor2
@@ -173,7 +170,7 @@ gcolor2
 gparted
 gufw
 >extra audacious
->extra hexchat
+# >extra hexchat
 htop
 qpdfview
 inxi
@@ -189,14 +186,15 @@ manjaro-settings-manager-notifier
 >extra mlocate
 mousepad
 mugshot
->basic parole # media player
->extra pidgin
+# >basic parole # media player
+# >extra pidgin
 powertop
 screenfetch
 >extra poppler-data  # CKJ support for pdf
 #>basic sylpheed # mail client
 >extra thunderbird
->extra vlc
+# >extra vlc
+>extra mpv
 >extra viewnior
 >extra xfburn
 >extra yelp
