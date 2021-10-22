@@ -250,6 +250,8 @@ xiccd # enable color profile settings
 code
 yay
 obs-studio
+flameshot
+disks
 
 ## Handshake tools
 #faucet-tool
