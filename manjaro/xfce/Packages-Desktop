@@ -247,6 +247,9 @@ gtkhash-thunar
 manjaro-hotfixes
 >basic squashfs-tools
 xiccd # enable color profile settings
+code
+yay
+obs-studio
 
 ## Handshake tools
 #faucet-tool
