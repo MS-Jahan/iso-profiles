@@ -251,10 +251,10 @@ code
 yay
 obs-studio
 flameshot
-disks
+gnome-disks
 
 ## AUR
-teamviewer
+# teamviewer
 
 ## Handshake tools
 #faucet-tool
